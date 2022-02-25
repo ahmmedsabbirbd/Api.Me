@@ -6,8 +6,8 @@
         "publish_date":"",
         "time_to_time":"",
         "category":"",
-        "url":""
-        "image_1":""
+        "url":"",
+        "image_1":"",
         "image_2":""
     }   
 ]
