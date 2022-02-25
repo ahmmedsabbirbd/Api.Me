@@ -6,11 +6,11 @@
         "publish_date": "02.25.2022",
         "time_to_time": "9am-12pm, 3pm-4pm",
         "category": "htm, css",
-        "url": "https://dev-breakup.000webhostapp.com/"
+        "url": "https://dev-breakup.000webhostapp.com/",
         "image_1": "https://raw.githubusercontent.com/ahmmedsabbirbd/Api.Me/main/sabbir.me/img/fast-web.png",
         "image_2": "https://raw.githubusercontent.com/ahmmedsabbirbd/Api.Me/main/sabbir.me/img/dev-breakup.png"
     },
-    
+
     {
         "id":1,
         "title":"Responsive",
