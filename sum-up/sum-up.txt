@@ -9,7 +9,7 @@
         "url":"https://dev-breakup.000webhostapp.com/"
         "image_1":"https://raw.githubusercontent.com/ahmmedsabbirbd/Api.Me/main/sabbir.me/img/fast-web.png"
         "image_2":"https://raw.githubusercontent.com/ahmmedsabbirbd/Api.Me/main/sabbir.me/img/dev-breakup.png"
-    }
+    },
     {
 
         "id":1,
@@ -18,5 +18,5 @@
         "publish_date":"02.23.2022",
         "time_to_time":"11am-1pm, 3pm-4pm",
         "url":"https://fast-web.webflow.io"
-    },   
+    }   
 ]
