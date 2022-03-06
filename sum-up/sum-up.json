@@ -1,5 +1,13 @@
 [
     {
+        "id": 10,
+        "title": "Personal project",
+        "description": "<ul style='list-style: auto'><li>I worked nav scroll</li><li>each function in javascript & jquery</li></ul>", 
+        "publish_date": "03.06.2022",
+        "time_to_time": "10.25am-1pm, 6.50pm-7.45pm", 
+        "category": "Adobe XD, HTML, CSS, RESPONSIVE, JAVASCTIPT, JQUERY, SASS" 
+    },
+    {
         "id": 9,
         "title": "Personal project",
         "description": "I worked slick slider and sly slider", 
