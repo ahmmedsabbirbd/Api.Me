@@ -1,8 +1,16 @@
 [
     {
+        "id": 11,
+        "title": "Personal project",
+        "description": "I Complete project", 
+        "publish_date": "03.07.2022",
+        "time_to_time": "10.20am-12pm", 
+        "category": "Adobe XD, HTML, CSS, RESPONSIVE, JAVASCTIPT, JQUERY, SASS" 
+    },
+    {
         "id": 10,
         "title": "Personal project",
-        "description": "<ul style='list-style: auto'><li>I worked nav scroll</li><li>each function in javascript & jquery</li></ul>", 
+        "description": "<ul style='list-style: auto; padding-left: 20px;'><li>I worked nav scroll</li><li>each function in javascript & jquery</li></ul>", 
         "publish_date": "03.06.2022",
         "time_to_time": "10.25am-1pm, 6.50pm-7.45pm", 
         "category": "Adobe XD, HTML, CSS, RESPONSIVE, JAVASCTIPT, JQUERY, SASS" 
